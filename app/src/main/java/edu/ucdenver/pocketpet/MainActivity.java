@@ -21,4 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(view);
 
     }
+    //Something to to save data -> Shared Preferences
+    //Function that calls pet activity
+    //Function that calls the setting/info
 }
